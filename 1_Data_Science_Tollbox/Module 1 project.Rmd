@@ -34,7 +34,7 @@ This is another form to to this since Git Bash:
 - cd Desktop
 - git clone https://github.com/DarhaChavez/datasciencecoursera.git
 - cd datasciencecoursera
-- git ls Helloworld.md
+- ls Helloworld.md
 - git add Helloworld.md 
 - git add commit -m "Added Helloworld.md file"
 - git pull --rebase
