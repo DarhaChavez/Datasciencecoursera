@@ -1,0 +1,52 @@
+---
+title: "Module 1 Project"
+author: "Darha Chávez"
+date: "22/5/2020"
+output: html_document
+---
+
+## Exercise 1
+
+First, you have to download the R software from <https://cran.r-project.org/bin/windows/base/>.
+After you installed R, you take a screenshot like this and upload it in Coursera website. 
+
+![Source: RStudio](C:\Users\Darha\Desktop\Captura1.JPG)
+
+
+## Exercise 2
+
+This exercise requires to create a repository in Git Hub called Datasciencecourse. Sign in your Git Hub account, go to your repository and click on create new and put the name: **Datasiencecourse**.
+
+
+## Exercise 3
+
+To fork a repository just go to <https://github.com/jtleek/datasharing> and click on fork. Copy the URL and paste it on coursera.
+Then in your repository profile appears datasharing as a new repository and you can add any change without affecting the master repository. This is great, isn´t it?
+
+#Exericise 4
+
+Go to repository and copy the url and create a new project in RStudio. File/New project/Version control/Git/paste teh URL/create a new project.
+
+You just vinculate your RStudio with Git Hub. Then open a script in RStudio and write ## This is a markdown repository. Then save it with the name Hello world and commit to Git Hub.
+
+This is another form to to this since Git Bash:
+
+- cd Desktop
+- git clone https://github.com/DarhaChavez/datasciencecoursera.git
+- cd datasciencecoursera
+- git ls Helloworld.md
+- git add Helloworld.md 
+- git add commit -m "Added Helloworld.md file"
+- git pull --rebase
+- git push origin master
+
+
+
+
+
+
+
+
+
+
+
